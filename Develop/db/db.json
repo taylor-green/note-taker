@@ -1,0 +1,12 @@
+[
+    {
+        "title":"Welcome to Note Taker",
+        "text":"Add notes by clicking the button at the top. You can then save your note with the save button",
+        "id": "0"
+    },
+    {
+        "title":"Delete Notes",
+        "text": "Delete your notes by clicking the delete button",
+        "id": "1"
+    }
+]
